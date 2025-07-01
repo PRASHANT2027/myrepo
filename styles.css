@@ -1,0 +1,10 @@
+body {
+  color: #ffffff;
+  background-image: linear-gradient(to right, rgb(83, 42, 148), rgb(81, 38, 151), rgb(76, 27, 155), rgb(84, 40, 154), rgb(99, 59, 164), rgb(129, 79, 210), rgb(80, 30, 161));
+}
+
+h1 {
+  text-align: center;
+  font-size: 2.5em;
+  margin-top: 45vh;
+}
